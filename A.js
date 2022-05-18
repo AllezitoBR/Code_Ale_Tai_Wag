@@ -1,2 +1,2 @@
-let dadosAluno = ["Alexandre", "São Paulo"]
+let dadosAluno = ["Alexandre", "Tókio"]
 console.log(dadosAluno)
